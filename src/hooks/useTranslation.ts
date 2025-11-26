@@ -8,14 +8,14 @@ const translations = {
       name: "Nelmer Santiago Padrón",
       subtitle: "Ingeniero en Sistemas Computacionales",
       description:
-        "Apasionado por la tecnología y el software, con habilidades para trabajar eficazmente en equipos y bajo presión. Mi enfoque proactivo y rápido aprendizaje facilitan mi adaptación a nuevas tecnologías y metodologías.",
+        "Apasionado por la tecnología y el software, con habilidades para trabajar eficazmente en equipos. Mi enfoque proactivo y rápido aprendizaje facilitan mi adaptación a nuevas tecnologías y metodologías.",
       ctaPrimary: "Ver Proyectos",
       ctaSecondary: "Contactar",
     },
     about: {
       title: "Sobre Mí",
       description:
-        "Ingeniero en Sistemas Computacionales recién graduado con passion por el desarrollo de software, aplicaciones móviles y web. Capaz de adaptarme rápidamente y en constante aprendizaje. Busco contribuir creativamente en entornos de trabajo en equipo y proyectos tecnológicos.",
+        "Ingeniero en Sistemas Computacionales con pasión por el desarrollo de software, aplicaciones móviles y web. Capaz de adaptarme rápidamente y en constante aprendizaje buscando contribuir creativamente en entornos de trabajo en equipo y proyectos tecnológicos.",
       education: {
         title: "Educación",
         items: [
